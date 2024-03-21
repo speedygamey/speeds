@@ -3,16 +3,42 @@
     "name": "Basketball Stars",
     "link": "https://speedygamey.github.io/games-1/basketball-stars.html",
     "image": "images/basketball-stars.png",
-    "aboutblank": true,
     "fontSize": "15px",
     "embed": true
   },
   {
-    "name": "Game 2",
-    "link": "https://example.com/game2",
-    "image": "images/placeholder.png",
-    "aboutblank": false,
+    "name": "Basket Random",
+    "link": "https://speedygamey.github.io/games-1/basket-random.html",
+    "image": "images/basket-random.png",
     "fontSize": "20px",
-    "embed": false
+    "embed": true
+  },
+  {
+    "name": "Soccer Random",
+    "link": "https://speedygamey.github.io/games-1/soccer-random.html",
+    "image": "images/soccer-random.png",
+    "fontSize": "20px",
+    "embed": true
+  },
+  {
+    "name": "Boxing Random",
+    "link": "https://speedygamey.github.io/games-1/boxing-random.html",
+    "image": "images/boxing-random.png",
+    "fontSize": "20px",
+    "embed": true
+  },
+  {
+    "name": "Volley Random",
+    "link": "https://speedygamey.github.io/games-1/volley-random.html",
+    "image": "images/volley-random.png",
+    "fontSize": "20px",
+    "embed": true
+  },
+  {
+    "name": "Slope",
+    "link": "https://speedygamey.github.io/games-1/slope.html",
+    "image": "images/slope.png",
+    "fontSize": "20px",
+    "embed": true
   }
 ]
