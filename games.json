@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Basketball Stars",
+    "link": "https://speedygamey.github.io/games-1/basketball-stars.html",
+    "image": "images/basketball-stars.png",
+    "aboutblank": true,
+    "fontSize": "15px",
+    "embed": true
+  },
+  {
+    "name": "Game 2",
+    "link": "https://example.com/game2",
+    "image": "images/placeholder.png",
+    "aboutblank": false,
+    "fontSize": "20px",
+    "embed": false
+  }
+]
